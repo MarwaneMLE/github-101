@@ -3,4 +3,5 @@ def print_mlops():
     print("MLOPS is cool")
 
 
+# Calling function
 print_mlops()
